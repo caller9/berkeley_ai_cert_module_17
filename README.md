@@ -4,6 +4,6 @@
 
 ## Analysis
 
-The [Jupyter notebook](practical_applicaton_3.ipynb) contains the data analysis and recommendations.
+The [Jupyter notebook](practical_application_3.ipynb) contains the data analysis and recommendations.
 
 The repository also contains the [Prompt](prompt_III.ipynb) notebook with some introductory examination prompted by the course.
